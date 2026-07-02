@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{553AE28B-1DDB-49CC-9A44-6A8520B16D65}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{553AE28B-1DDB-49CC-9A44-6A8520B16D65}|VShop.ProductApi\\VShop.ProductApi.csproj|d:\\estudos\\dotnet\\curso_marcoratti\\vshop\\vshop.productapi\\vshop.productapi\\anota\u00E7\u00F5es.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{553AE28B-1DDB-49CC-9A44-6A8520B16D65}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\anota\u00E7\u00F5es.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553AE28B-1DDB-49CC-9A44-6A8520B16D65}|VShop.ProductApi\\VShop.ProductApi.csproj|d:\\estudos\\dotnet\\curso_marcoratti\\vshop\\vshop.productapi\\vshop.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{553AE28B-1DDB-49CC-9A44-6A8520B16D65}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{553AE28B-1DDB-49CC-9A44-6A8520B16D65}|VShop.ProductApi\\VShop.ProductApi.csproj|d:\\estudos\\dotnet\\curso_marcoratti\\vshop\\vshop.productapi\\vshop.productapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{553AE28B-1DDB-49CC-9A44-6A8520B16D65}|VShop.ProductApi\\VShop.ProductApi.csproj|solutionrelative:vshop.productapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,11 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Estudos\\dotnet\\curso_marcoratti\\VShop\\VShop.ProductApi\\VShop.ProductApi\\appsettings.json",
+              "RelativeDocumentMoniker": "VShop.ProductApi\\appsettings.json",
+              "ToolTip": "D:\\Estudos\\dotnet\\curso_marcoratti\\VShop\\VShop.ProductApi\\VShop.ProductApi\\appsettings.json",
+              "RelativeToolTip": "VShop.ProductApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-02T01:26:47.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "anota\u00E7\u00F5es.md",
+              "DocumentMoniker": "D:\\Estudos\\dotnet\\curso_marcoratti\\VShop\\VShop.ProductApi\\VShop.ProductApi\\anota\u00E7\u00F5es.md",
+              "RelativeDocumentMoniker": "VShop.ProductApi\\anota\u00E7\u00F5es.md",
+              "ToolTip": "D:\\Estudos\\dotnet\\curso_marcoratti\\VShop\\VShop.ProductApi\\VShop.ProductApi\\anota\u00E7\u00F5es.md",
+              "RelativeToolTip": "VShop.ProductApi\\anota\u00E7\u00F5es.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-02T01:15:04.047Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,14 +78,14 @@
               "RelativeDocumentMoniker": "VShop.ProductApi\\.gitignore",
               "ToolTip": "D:\\Estudos\\dotnet\\curso_marcoratti\\VShop\\VShop.ProductApi\\VShop.ProductApi\\.gitignore",
               "RelativeToolTip": "VShop.ProductApi\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-07-02T00:31:20.531Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Estudos\\dotnet\\curso_marcoratti\\VShop\\VShop.ProductApi\\VShop.ProductApi\\Program.cs",
               "RelativeDocumentMoniker": "VShop.ProductApi\\Program.cs",
@@ -59,12 +93,11 @@
               "RelativeToolTip": "VShop.ProductApi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T00:19:29.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-02T00:19:29.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Estudos\\dotnet\\curso_marcoratti\\VShop\\VShop.ProductApi\\VShop.ProductApi\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "VShop.ProductApi\\Context\\AppDbContext.cs",
@@ -77,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\Estudos\\dotnet\\curso_marcoratti\\VShop\\VShop.ProductApi\\VShop.ProductApi\\Models\\Category.cs",
               "RelativeDocumentMoniker": "VShop.ProductApi\\Models\\Category.cs",
@@ -85,12 +118,11 @@
               "RelativeToolTip": "VShop.ProductApi\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T00:04:30.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-02T00:04:30.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Estudos\\dotnet\\curso_marcoratti\\VShop\\VShop.ProductApi\\VShop.ProductApi\\Models\\Product.cs",
               "RelativeDocumentMoniker": "VShop.ProductApi\\Models\\Product.cs",
@@ -98,8 +130,7 @@
               "RelativeToolTip": "VShop.ProductApi\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T23:57:48.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T23:57:48.656Z"
             }
           ]
         }
